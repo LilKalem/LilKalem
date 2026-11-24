@@ -5,7 +5,7 @@
 </div>
 <hr />
 <div align="center">
-### Fokus & Tech Stack
+Fokus & Tech Stack
 <p><strong>Web &amp; Backend</strong></p>
 <p>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="44" height="44" /></a>&nbsp;&nbsp;&nbsp;
