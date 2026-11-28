@@ -23,7 +23,7 @@ SVG_NS = "http://www.w3.org/2000/svg"
 
 NAME = "LILKALEM"
 SUBTITLE = "Nafis Muhammad"
-PROMPT = "kalem@cafe ~ $ "
+PROMPT = "lilKalem@chill ~ $ "
 LINKS = ("github", "bookify", "kepegawaian", "repos")
 ABOUT = (
     "Hanya seorang hamba Tuhan.",
